@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><a href="https://twinology.nl">twinology.nl</a></p>
+<p align="center"><a href="https://twinology.eu">twinology.eu</a></p>
 
 ### Nederlands
 
